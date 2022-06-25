@@ -43,7 +43,7 @@ This program implements the RSA encryption algorithm, utilising `gmpy2` for gene
 
 To run:
 ```
-python 3-dh_key_exchange.py [arg1] [arg2]
+python 4-rsa_encryption.py [arg1] [arg2]
 ```
 - `arg1`: Number of times to execute
 - `arg2`: No. of digits in p and q
