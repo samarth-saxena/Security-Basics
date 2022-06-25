@@ -2,7 +2,7 @@
 A series of programs that I wrote as a part of the course Foundations of Computer Security. 
 
 ## 1. Password generator
-Given a plain text string as input, the program converts it into some password-ready strings.
+Given a plain text string as input, the program converts it into some password-ready strings.  
 Eg: `Helloworld -> #3l10W0R1)`
 
 To run:
